@@ -1,0 +1,5 @@
+{
+    "less.compile": {
+      "main": ["main-one.less", "main-two.less"]
+    }
+  }
